@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Last Twilight",
+  "base_artist": "織田かおり",
+  "createdAt": "2026-02-20T03:19:51.085544Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ภาพสุดท้าย (Last Twilight) (เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม)",
+      "artist": "William Jakrapatr",
+      "has_synced": true,
+      "path": "select/01_ภาพสุดท้าย_(Last_Twilight)_(เพลงประกอบซีรีส์_Last_Twilight_ภาพนายไม่เคยลืม)_William_Jakrapatr.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ประตูวิเศษ (Better Days) (เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม)",
+      "artist": "Jimmy Jitaraphol",
+      "has_synced": true,
+      "path": "select/02_ประตูวิเศษ_(Better_Days)_(เพลงประกอบซีรีส์_Last_Twilight_ภาพนายไม่เคยลืม)_Jimmy_Jitaraphol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ประตูวิเศษ (Better Days) (เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม)",
+      "artist": "Jimmy Jitaraphol & Sea Tawinan",
+      "has_synced": true,
+      "path": "select/03_ประตูวิเศษ_(Better_Days)_(เพลงประกอบซีรีส์_Last_Twilight_ภาพนายไม่เคยลืม)_Jimmy_Jitaraphol_&_Sea_Tawinan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "แค่คืบ (เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม)",
+      "artist": "Satang Kittiphop",
+      "has_synced": true,
+      "path": "select/04_แค่คืบ_(เพลงประกอบซีรีส์_Last_Twilight_ภาพนายไม่เคยลืม)_Satang_Kittiphop.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ต้องโทษดาว... (Day Version) (เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม)",
+      "artist": "Sea Tawinan",
+      "has_synced": true,
+      "path": "select/05_ต้องโทษดาว..._(Day_Version)_(เพลงประกอบซีรีส์_Last_Twilight_ภาพนายไม่เคยลืม)_Sea_Tawinan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ต้องโทษดาว... (Mhok Version) (เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม)",
+      "artist": "Jimmy Jitaraphol",
+      "has_synced": true,
+      "path": "select/06_ต้องโทษดาว..._(Mhok_Version)_(เพลงประกอบซีรีส์_Last_Twilight_ภาพนายไม่เคยลืม)_Jimmy_Jitaraphol.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ประตูวิเศษ (Better Days) (เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม)",
+      "artist": "Jimmy Jitaraphol",
+      "has_synced": true,
+      "path": "select/07_ประตูวิเศษ_(Better_Days)_(เพลงประกอบซีรีส์_Last_Twilight_ภาพนายไม่เคยลืม)_Jimmy_Jitaraphol.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ภาพสุดท้าย (Last Twilight) (เพลงประกอบซีรีส์ Last Twilight ภาพนายไม่เคยลืม)",
+      "artist": "WILLIAM JAKRAPATR",
+      "has_synced": true,
+      "path": "select/08_ภาพสุดท้าย_(Last_Twilight)_(เพลงประกอบซีรีส์_Last_Twilight_ภาพนายไม่เคยลืม)_WILLIAM_JAKRAPATR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ภาพสุดท้าย (Last Twilight) - เพลงประกอบซีรีส์ \"Last Twilight ภาพนายไม่เคยลืม\"",
+      "artist": "William Jakrapatr",
+      "has_synced": false,
+      "path": "select/09_ภาพสุดท้าย_(Last_Twilight)_-_เพลงประกอบซีรีส์__Last_Twilight_ภาพนายไม่เคยลืม_William_Jakrapatr.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ประตูวิเศษ (Better Days) (เพลงประกอบซีรีส์ \"Last Twilight ภาพนายไม่เคยลืม\")",
+      "artist": "Jimmy Jitaraphol",
+      "has_synced": false,
+      "path": "select/10_ประตูวิเศษ_(Better_Days)_(เพลงประกอบซีรีส์__Last_Twilight_ภาพนายไม่เคยลืม_)_Jimmy_Jitaraphol.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ต้องโทษดาว... (Mhok Version เพลงประกอบซีรีส์ \"Last Twilight ภาพนายไม่เคยลืม\")",
+      "artist": "Jimmy Jitaraphol",
+      "has_synced": false,
+      "path": "select/11_ต้องโทษดาว..._(Mhok_Version_เพลงประกอบซีรีส์__Last_Twilight_ภาพนายไม่เคยลืม_)_Jimmy_Jitaraphol.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ต้องโทษดาว... (Day Version เพลงประกอบซีรีส์ \"Last Twilight ภาพนายไม่เคยลืม\")",
+      "artist": "Sea Tawinan",
+      "has_synced": false,
+      "path": "select/12_ต้องโทษดาว..._(Day_Version_เพลงประกอบซีรีส์__Last_Twilight_ภาพนายไม่เคยลืม_)_Sea_Tawinan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "แค่คืบ (เพลงประกอบซีรีส์ \"Last Twilight ภาพนายไม่เคยลืม\")",
+      "artist": "Satang Kittiphop",
+      "has_synced": false,
+      "path": "select/13_แค่คืบ_(เพลงประกอบซีรีส์__Last_Twilight_ภาพนายไม่เคยลืม_)_Satang_Kittiphop.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Twilight",
+      "artist": "織田かおり",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Twilight_織田かおり.txt"
+    }
+  ]
+}
